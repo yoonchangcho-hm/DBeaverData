@@ -1,0 +1,17 @@
+use testdb;
+
+select *
+from students;
+
+
+select name as "이름"
+from students;
+
+SELECT *
+from students s
+where gender = 'M' and grade = 'A'
+order by age desc;
+
+SELECT *
+from students s
+where grade in ('A');

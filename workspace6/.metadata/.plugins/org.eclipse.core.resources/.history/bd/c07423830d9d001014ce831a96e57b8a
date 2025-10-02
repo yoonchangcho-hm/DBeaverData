@@ -1,0 +1,46 @@
+use testdb;
+
+select *
+from students;
+
+
+select name as "이름"
+from students;
+
+SELECT *
+from students s
+where gender = 'M' and grade = 'A'
+order by age desc;
+
+SELECT *
+from students s
+where grade in ('A','B');
+
+select *
+from students s
+where name like '_o%'
+
+select*
+from students s
+order by age desc limit 3;
+
+insert into students 
+	(name,age,grade)
+VALUES
+	('홍길동',22,'B')
+
+SELECT * from students s;
+
+insert into students 
+	(name,age,grade)
+VALUES
+	('홍길동',20,'B'),
+('강감찬',25,'B'),
+('철수',22,'B');
+
+SELECT gender,count(*) as '명'
+from students s
+group by gender;
+
+
+

@@ -1,0 +1,12 @@
+use testdb;
+
+CREATE TABLE students (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(50) NOT NULL,
+  age INT NOT NULL,
+  gender ENUM('M', 'F') NOT NULL,
+  grade VARCHAR(10)
+);
+
+insert into students (name, age, gender, grade) 
+			values ('han',20,'M','A');

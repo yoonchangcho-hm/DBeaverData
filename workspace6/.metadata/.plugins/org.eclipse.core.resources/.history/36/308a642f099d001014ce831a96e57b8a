@@ -1,0 +1,12 @@
+use testdb;
+
+select *
+from students;
+
+
+select name as "이름"
+from students;
+
+SELECT *
+from students s;
+where age > 20;

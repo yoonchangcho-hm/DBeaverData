@@ -1,0 +1,9 @@
+use testdb;
+
+select * from post;
+select * from user;
+
+select u.username, u.useremail, p.title ,p.content
+from user u
+join post p
+on u.userId = p.userId;

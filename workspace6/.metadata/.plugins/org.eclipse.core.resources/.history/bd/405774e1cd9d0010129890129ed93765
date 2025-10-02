@@ -1,0 +1,65 @@
+use testdb;
+
+select * from post;
+select * from user;
+
+select p.postId,u.username, u.useremail, p.title ,p.content
+from user u
+join post p
+on u.userId = p.userId
+order by p.postId desc;
+
+select count(*) as totalCount
+from post p;
+
+CREATE TABLE post_like (
+  likeId BIGINT AUTO_INCREMENT PRIMARY KEY,
+  userId BIGINT NOT NULL,
+  postId BIGINT NOT NULL,
+  createdAt DATETIME DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT fk_like_user FOREIGN KEY (userId) REFERENCES user(userId),
+  CONSTRAINT fk_like_post FOREIGN KEY (postId) REFERENCES post(postId),
+  CONSTRAINT uq_user_post UNIQUE (userId, postId) -- 중복 좋아요 방지
+);
+
+INSERT INTO post_like (userId, postId) VALUES
+(2, 1), -- Bob이 Alice의 글 좋아요
+(3, 1), -- Charlie가 Alice의 글 좋아요
+(1, 2), -- Alice가 Bob의 글 좋아요
+(4, 2), -- Diana가 Bob의 글 좋아요
+(5, 3), -- Eric이 Charlie의 글 좋아요              
+(6, 4), -- Fiona가 Diana의 글 좋아요
+(7, 5), -- George가 Eric의 글 좋아요
+(8, 6), -- Hana가 Fiona의 글 좋아요
+(9, 7), -- Ian이 George의 글 좋아요
+(10, 8); -- Julia가 Hana의 글 좋아요
+
+select * from post;
+select * from user;
+select * from post_like;
+
+select p.title, p.content, p.islive, p.userId, u.username, u.useremail
+from post p
+join user u
+on p.userId = u.userId
+where p.userId = 1;
+
+
+-- 회원별(이름) 작성한 게시글 개수
+select u.username ,count(p.postId)
+from post p
+join user u
+on p.userId = u.userId
+group by u.username ; 
+
+SELECT p.userId,count(p.postId) as count
+from post p
+join user u
+on p.userId = u.userId
+GROUP  by p.userId;
+
+-- 좋아요 누른 회원(이름)과 게시글 제목
+select pl.likeId ,u.username
+from post_like pl
+join user u
+on pl.userId = u.userId;
