@@ -1,4 +1,0 @@
-use testdb;
-
-select *
-from student;
