@@ -1,0 +1,316 @@
+2025-10-30 14:36:23.982 - DBeaver 25.2.2.202510052342 is starting
+2025-10-30 14:36:23.985 - OS: Windows 10 10.0 (amd64)
+2025-10-30 14:36:23.985 - Java version: 21.0.8 by Eclipse Adoptium (64bit)
+2025-10-30 14:36:23.985 - Install path: 'C:\Users\C403\AppData\Local\DBeaver'
+2025-10-30 14:36:23.986 - Instance path: 'file:/C:/Users/C403/AppData/Roaming/DBeaverData/workspace6/'
+2025-10-30 14:36:23.990 - Memory available 64Mb/1024Mb
+2025-10-30 14:36:24.007 - Create display
+2025-10-30 14:36:24.177 - Initialize desktop platform...
+2025-10-30 14:36:24.517 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.300.v20250607-0645]
+> Start Core Resource Management [org.eclipse.core.resources 3.23.0.v20250729-1759]
+> Start Team Support Core [org.eclipse.team.core 3.10.800.v20250610-0708]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.164.202510052342]
+2025-10-30 14:36:24.902 - Initialize base platform...
+2025-10-30 14:36:24.935 - send collected statistics
+2025-10-30 14:36:24.942 - Platform initialized (765ms)
+2025-10-30 14:36:25.107 - Error accessing instance server: java.net.ConnectException
+2025-10-30 14:36:25.132 - Starting instance server at http://localhost:52784
+2025-10-30 14:36:25.143 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.900.v20250612-1000]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.200.v20250326-1945]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.500.v20250123-0754]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.800.v20250422-1254]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.700.v20250612-1000]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.600.v20250307-1331]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.39.0.v20250414-1351]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.500.v20250213-1508]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.800.v20250701-0653]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.900.v20250828-1028]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start DBeaver AI Model [org.jkiss.dbeaver.model.ai 2.0.7.202510052342]
+> Start DBeaver AI UI [org.jkiss.dbeaver.ui.ai 1.0.66.202510052342]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.600.v20250409-1135]
+> Start Default Text Editor [org.eclipse.ui.editors 3.20.100.v20250814-1056]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.19.300.v20250815-0722]
+2025-10-30 14:36:27.984 - Open [https://stats.dbeaver.com/send-statistics?session=5144b1d3-09d7-482f-8c7a-1fdb84387647&time=1761726360]
+2025-10-30 14:36:28.152 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.154.202510052342]
+2025-10-30 14:36:28.535 - Total database drivers: 128 (128)
+> Start Help System Core [org.eclipse.help 3.10.600.v20250613-0437]
+2025-10-30 14:36:28.628 - Create actions
+2025-10-30 14:36:28.643 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2025-10-30 14:36:28.643 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2025-10-30 14:36:28.644 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2025-10-30 14:36:28.644 - Create workbench actions
+2025-10-30 14:36:29.084 - Statistics sent (OK)
+2025-10-30 14:36:29.808 - Initialize workbench window
+2025-10-30 14:36:29.816 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.164.202510052342]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.164.202510052342]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.140.202510052342]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.700.v20250622-1644]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.500.v20250611-0855]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.800.v20250613-1119]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.201.202510052342]
+2025-10-30 14:36:32.928 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.161.202510052342]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.20.100.202508011427]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.23.0.202507261623]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.ui.editors.erd 3.1.5.202510052342]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.model.erd 1.1.5.202510052342]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.57.202510052342]
+> Start DBeaver MySQL Support [org.jkiss.dbeaver.ext.mysql 2.1.249.202510052342]
+> Start Console [org.eclipse.ui.console 3.14.400.v20250607-0653]
+> Start Debug Core [org.eclipse.debug.core 3.23.100.v20250811-0711]
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.59.202510052342]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.142.202510052342]
+> Start DBeaver MySQL UI Support [org.jkiss.dbeaver.ext.mysql.ui 1.0.156.202510052342]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.142.202510052342]
+2025-10-30 14:36:34.689 - Connect with 'localhost' (mysql8-19970a88e0f-22c2222a201f7f16)
+2025-10-30 14:36:34.810 - Execution context opened (localhost; Main; 0)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.188.202510052342]
+2025-10-30 14:36:35.806 - Execution context opened (localhost; Metadata; 1)
+2025-10-30 14:36:35.997 - Connected (mysql8-19970a88e0f-22c2222a201f7f16, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2025-10-30 14:36:36.087 - Execution context opened (localhost; SQLEditor <Script-13.sql>; 2)
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.140.202510052342]
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.237.202510052342]
+2025-10-30 15:14:50.916 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2025-10-30 15:14:51.023 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2025-10-30 15:18:17.219 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.pom]
+2025-10-30 15:18:17.407 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.pom]
+2025-10-30 15:18:17.468 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.pom]
+2025-10-30 15:18:17.507 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-java-aggregator/2.5.0/postgis-java-aggregator-2.5.0.pom]
+2025-10-30 15:18:17.546 - Open [https://repo1.maven.org/maven2/org/testcontainers/testcontainers-bom/1.13.0/testcontainers-bom-1.13.0.pom]
+2025-10-30 15:18:17.593 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.pom]
+2025-10-30 15:18:17.623 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.pom]
+2025-10-30 15:18:17.660 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-parent/1.9.1/waffle-parent-1.9.1.pom]
+2025-10-30 15:18:17.747 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom]
+2025-10-30 15:18:17.798 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.pom]
+2025-10-30 15:18:17.830 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom]
+2025-10-30 15:18:17.860 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom]
+2025-10-30 15:18:17.899 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom]
+2025-10-30 15:18:17.942 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.pom]
+2025-10-30 15:18:34.342 - Connect with 'postgres' (postgres-jdbc-19a33c132e2-7702b75354b39e8f)
+2025-10-30 15:18:34.389 - Execution context opened (postgres; Main <postgres>; 3)
+2025-10-30 15:18:34.392 - Initiate connection to PostgreSQL database [postgres@aws-1-ap-northeast-2.pooler.supabase.com] for Main <postgres>
+2025-10-30 15:18:43.996 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.jar]
+2025-10-30 15:18:44.146 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar]
+2025-10-30 15:18:44.208 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.jar]
+2025-10-30 15:18:44.251 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.jar]
+2025-10-30 15:18:44.313 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.jar]
+2025-10-30 15:18:44.358 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar]
+2025-10-30 15:18:44.514 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.jar]
+2025-10-30 15:18:44.753 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar]
+2025-10-30 15:18:44.793 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar]
+2025-10-30 15:18:44.830 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.jar]
+2025-10-30 15:19:05.081 - Connection attempt timed out.
+org.jkiss.dbeaver.model.exec.DBCConnectException: Connection attempt timed out.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:259)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:133)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:565)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:124)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:106)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:237)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:122)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:276)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:170)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:109)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:100)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:108)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:122)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.openDataSource(DataSourceDescriptor.java:1414)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect0(DataSourceDescriptor.java:1272)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:1063)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:78)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:109)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:123)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:87)
+	at org.jkiss.dbeaver.model.DBUtils.initDataSource(DBUtils.java:2456)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:159)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:225)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:99)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:410)
+	at org.postgresql.Driver.connect(Driver.java:305)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:112)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:86)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:215)
+	... 29 more
+> Start Data Transfer UI [org.jkiss.dbeaver.data.transfer.ui 1.0.148.202510052342]
+2025-10-30 15:19:21.450 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2025-10-30 15:19:21.492 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.148.202510052342]
+2025-10-30 15:20:31.415 - Connect with 'postgres' (postgres-jdbc-19a33c132e2-7702b75354b39e8f)
+2025-10-30 15:20:31.419 - Execution context opened (postgres; Main <postgres>; 4)
+2025-10-30 15:20:31.420 - Initiate connection to PostgreSQL database [postgres@aws-1-ap-northeast-2.pooler.supabase.com] for Main <postgres>
+2025-10-30 15:20:31.787 - Execution context opened (postgres; Metadata <postgres>; 5)
+2025-10-30 15:20:31.787 - Initiate connection to PostgreSQL database [postgres@aws-1-ap-northeast-2.pooler.supabase.com] for Metadata <postgres>
+2025-10-30 15:20:31.999 - Connected (postgres-jdbc-19a33c132e2-7702b75354b39e8f, PostgreSQL JDBC Driver [42.7.2])
+2025-10-30 15:21:19.804 - Can't get column 'oid': The column name oid was not found in this ResultSet.
+2025-10-30 15:22:51.138 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2025-10-30 15:22:51.180 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2025-10-30 15:38:54.835 - Execution context opened (postgres; SQLEditor <Script-14.sql>; 6)
+2025-10-30 15:38:54.836 - Initiate connection to PostgreSQL database [postgres@aws-1-ap-northeast-2.pooler.supabase.com] for SQLEditor <Script-14.sql>
+2025-10-30 15:39:01.581 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:12.569 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:12.577 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:15.732 - Execution context opened (localhost; SQLEditor <Script-11.sql>; 7)
+2025-10-30 15:39:15.744 - Invalidate datasource 'localhost' connections...
+2025-10-30 15:39:15.747 - 	Invalidate context 'Main' for mysql8-19970a88e0f-22c2222a201f7f16 (BEFORE_INVALIDATE)
+2025-10-30 15:39:15.761 - Execution context closed (localhost, 0)
+2025-10-30 15:39:15.762 - 	Invalidate context 'Metadata' for mysql8-19970a88e0f-22c2222a201f7f16 (BEFORE_INVALIDATE)
+2025-10-30 15:39:15.775 - Execution context closed (localhost, 1)
+2025-10-30 15:39:15.776 - 	Invalidate context 'SQLEditor <Script-13.sql>' for mysql8-19970a88e0f-22c2222a201f7f16 (BEFORE_INVALIDATE)
+2025-10-30 15:39:15.788 - Execution context closed (localhost, 2)
+2025-10-30 15:39:15.794 - 	Invalidate context 'Main' for mysql8-19970a88e0f-22c2222a201f7f16 (INVALIDATE)
+2025-10-30 15:39:15.797 - 	Failed: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2025-10-30 15:39:15.797 - 	Invalidate context 'Metadata' for mysql8-19970a88e0f-22c2222a201f7f16 (INVALIDATE)
+2025-10-30 15:39:15.799 - 	Failed: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2025-10-30 15:39:15.799 - 	Invalidate context 'SQLEditor <Script-13.sql>' for mysql8-19970a88e0f-22c2222a201f7f16 (INVALIDATE)
+2025-10-30 15:39:15.803 - 	Failed: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2025-10-30 15:39:15.803 - 	Invalidate context 'Main' for mysql8-19970a88e0f-22c2222a201f7f16 (AFTER_INVALIDATE)
+2025-10-30 15:39:15.803 - 	Invalidate context 'Metadata' for mysql8-19970a88e0f-22c2222a201f7f16 (AFTER_INVALIDATE)
+2025-10-30 15:39:15.803 - 	Invalidate context 'SQLEditor <Script-13.sql>' for mysql8-19970a88e0f-22c2222a201f7f16 (AFTER_INVALIDATE)
+2025-10-30 15:39:15.811 - Operation failed. Retry count remains = 1
+org.jkiss.dbeaver.model.exec.DBCConnectException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:259)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:133)
+	at org.jkiss.dbeaver.ext.mysql.model.MySQLDataSource.openConnection(MySQLDataSource.java:516)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:124)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.lambda$0(JDBCRemoteInstance.java:168)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.openIsolatedContext(JDBCRemoteInstance.java:166)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$OpenContextJob.run(SQLEditor.java:788)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:112)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:86)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:215)
+	... 9 more
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:104)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:149)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:165)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:88)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:935)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:805)
+	... 15 more
+Caused by: java.net.ConnectException: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:153)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:62)
+	... 18 more
+2025-10-30 15:39:15.818 - Invalidate datasource 'localhost' connections...
+2025-10-30 15:39:15.818 - 	Invalidate context 'Main' for mysql8-19970a88e0f-22c2222a201f7f16 (BEFORE_INVALIDATE)
+2025-10-30 15:39:15.818 - Execution context closed (localhost, 0)
+2025-10-30 15:39:15.818 - 	Invalidate context 'Metadata' for mysql8-19970a88e0f-22c2222a201f7f16 (BEFORE_INVALIDATE)
+2025-10-30 15:39:15.818 - Execution context closed (localhost, 1)
+2025-10-30 15:39:15.818 - 	Invalidate context 'SQLEditor <Script-13.sql>' for mysql8-19970a88e0f-22c2222a201f7f16 (BEFORE_INVALIDATE)
+2025-10-30 15:39:15.819 - Execution context closed (localhost, 2)
+2025-10-30 15:39:15.819 - 	Invalidate context 'Main' for mysql8-19970a88e0f-22c2222a201f7f16 (INVALIDATE)
+2025-10-30 15:39:15.821 - 	Failed: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2025-10-30 15:39:15.821 - 	Invalidate context 'Metadata' for mysql8-19970a88e0f-22c2222a201f7f16 (INVALIDATE)
+2025-10-30 15:39:15.823 - 	Failed: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2025-10-30 15:39:15.823 - 	Invalidate context 'SQLEditor <Script-13.sql>' for mysql8-19970a88e0f-22c2222a201f7f16 (INVALIDATE)
+2025-10-30 15:39:15.825 - 	Failed: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2025-10-30 15:39:15.825 - 	Invalidate context 'Main' for mysql8-19970a88e0f-22c2222a201f7f16 (AFTER_INVALIDATE)
+2025-10-30 15:39:15.825 - 	Invalidate context 'Metadata' for mysql8-19970a88e0f-22c2222a201f7f16 (AFTER_INVALIDATE)
+2025-10-30 15:39:15.825 - 	Invalidate context 'SQLEditor <Script-13.sql>' for mysql8-19970a88e0f-22c2222a201f7f16 (AFTER_INVALIDATE)
+2025-10-30 15:39:15.826 - Connection refused: getsockopt
+java.net.ConnectException: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:153)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:62)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:935)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:805)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:112)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:86)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:215)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:133)
+	at org.jkiss.dbeaver.ext.mysql.model.MySQLDataSource.openConnection(MySQLDataSource.java:516)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:124)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.lambda$0(JDBCRemoteInstance.java:168)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.openIsolatedContext(JDBCRemoteInstance.java:166)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$OpenContextJob.run(SQLEditor.java:788)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-10-30 15:39:17.833 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:17.846 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:18.332 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:25.128 - Delete empty SQL script '\General\Scripts\Script-14.sql'
+2025-10-30 15:39:25.139 - Execution context closed (postgres, 6)
+2025-10-30 15:39:25.304 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:25.306 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:30.841 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:30.850 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:33.794 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:33.803 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:37.723 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:37.732 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:58.518 - Execution context opened (postgres; SQLEditor <Script-11.sql>; 8)
+2025-10-30 15:39:58.518 - Initiate connection to PostgreSQL database [postgres@aws-1-ap-northeast-2.pooler.supabase.com] for SQLEditor <Script-11.sql>
+2025-10-30 15:39:58.703 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:39:58.706 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:40:22.588 - Execution context closed (postgres, 8)
+2025-10-30 15:40:27.849 - Execution context opened (postgres; SQLEditor <Script-11.sql>; 9)
+2025-10-30 15:40:27.850 - Initiate connection to PostgreSQL database [postgres@aws-1-ap-northeast-2.pooler.supabase.com] for SQLEditor <Script-11.sql>
+2025-10-30 15:40:41.377 - Execution context closed (postgres, 9)
+2025-10-30 15:40:45.426 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:40:45.437 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:40:52.787 - Execution context opened (postgres; SQLEditor <Script-11.sql>; 10)
+2025-10-30 15:40:52.788 - Initiate connection to PostgreSQL database [postgres@aws-1-ap-northeast-2.pooler.supabase.com] for SQLEditor <Script-11.sql>
+2025-10-30 15:40:52.917 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:40:52.919 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
+2025-10-30 15:59:57.898 - Datasource mysql8-1997062c0ac-925bf8f3988f20d not found in project General (/General/Scripts/Script.sql)
