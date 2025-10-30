@@ -1,0 +1,20 @@
+use mydb;
+
+-- 테이블 삭제
+DROP TABLE IF EXISTS simple_bbs;
+
+-- 테이블 생성 (AUTO_INCREMENT 포함)
+CREATE TABLE simple_bbs (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  writer VARCHAR(100),
+  title VARCHAR(200),
+  content TEXT,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+INSERT INTO simple_bbs (writer, title, content) VALUES ('Alice', 'Hello World', 'This is a test post.');
+INSERT INTO simple_bbs (writer, title, content) VALUES ('Bob', 'Another Post', 'Here is another example.');
+
+SELECT  * from simple_bbs;
+
+-- DELETE from simple_bbs where id > 2
